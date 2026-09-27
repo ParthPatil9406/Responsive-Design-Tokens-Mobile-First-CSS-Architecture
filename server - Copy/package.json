@@ -1,0 +1,10 @@
+{
+  "name": "audit-server",
+  "private": true,
+  "version": "1.0.0",
+  "scripts": {
+    "dev": "echo "Add backend framework dev command here"",
+    "test": "echo "Server tests not configured yet"",
+    "lint": "echo "Server lint not configured yet""
+  }
+}

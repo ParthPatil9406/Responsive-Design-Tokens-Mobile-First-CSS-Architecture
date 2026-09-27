@@ -1,0 +1,10 @@
+{
+  "name": "audit-client",
+  "private": true,
+  "version": "1.0.0",
+  "scripts": {
+    "dev": "echo "Add frontend framework dev command here"",
+    "test": "echo "Client tests not configured yet"",
+    "lint": "echo "Client lint not configured yet""
+  }
+}
